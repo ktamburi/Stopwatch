@@ -1,6 +1,6 @@
 # Stopwatch Simulation – PIC Microcontroller  
 
-## 📌 Overview  
+## Overview  
 This project implements a **digital stopwatch** using a **PIC microcontroller**, programmed in **C (PIC C / CCS C compiler)**.  
 The assignment was to program the stopwatch application that supports **start/stop, pause, reset, and lap-time recording** according to the given circuit design and the assignment instructions.  
 
@@ -11,7 +11,7 @@ The repository contains:
 
 ---
 
-## ⚡ Features  
+## Features  
 The stopwatch behaves as follows:  
 
 - When first starting or on reset, LCD shows:  
@@ -38,7 +38,7 @@ The stopwatch behaves as follows:
 
 ---
 
-## 🛠 Requirements  
+## Requirements  
 
 To run this project, you need:  
 
@@ -46,7 +46,7 @@ To run this project, you need:
 
 ---
 
-## ▶️ How to Run the Stopwatch  
+## How to Run the Stopwatch  
 
 1. **Open the circuit in SimulIDE:**  
    - Launch **SimulIDE**.  
@@ -57,12 +57,12 @@ To run this project, you need:
    - Load the provided `main.hex` file.  
 
 3. **Run the simulation:**  
-   - Press the **Play ▶️ button** in SimulIDE.  
+   - Press the **Play button** in SimulIDE.  
    - Interact with the circuit using the buttons connected to the PIC pins.  
    - Observe the stopwatch behavior on the LCD.  
 
 ---
 
-## 🎓 Assignment Reference  
+## Assignment Reference  
 
 This project was created as part of **Epoka University Course CEN389 – Embedded Systems** homework.  
